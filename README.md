@@ -58,7 +58,7 @@
 # 🔥 Live Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahir-arpit&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
 </p>
 
 ---
