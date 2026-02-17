@@ -46,23 +46,6 @@
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180em"/>
-</p>
-
----
-
-# 🔥 Live Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahir-arpit&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
-</p>
-
----
-
 # ⚡ GitHub Streak
 
 <p align="center">
