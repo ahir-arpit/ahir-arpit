@@ -63,7 +63,7 @@
 <a href="https://linkedin.com/in/yourlinkedin">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
-<a href="mailto:yourmail@gmail.com">
+<a href="mailto:arpityadav75055@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 </p>
