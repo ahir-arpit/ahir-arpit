@@ -42,14 +42,14 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino)
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge)
 ![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-A22846?style=for-the-badge&logo=raspberrypi)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+
 
 ---
 
 # ⚡ GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" />
+  <img src="https://streak-stats.demolab.com?user=ahir-arpit&theme=tokyonight&hide_border=true&background=0D1117" />
 </p>
 
 ---
@@ -66,10 +66,10 @@
 # 📫 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/in/yourlinkedin">
+<a href="https://www.linkedin.com/in/arpit-yadav21/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
-<a href="mailto:arpityadav75055@gmail.com">
+<a href="mailto:arpityadav454406@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 </p>
